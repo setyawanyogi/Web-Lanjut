@@ -1,2 +1,10 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow:
+Allow: /
+
+Allow: sitemap.xml
+Allow: sitemap.html
+
+Sitemap: http://pwlyuhuuu.site/sitemap.xml
